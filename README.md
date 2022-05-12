@@ -2,6 +2,8 @@ An STL inspired embedded library both for C and C++
 ===================================================
 _(Nested) Embedded standard library_
 
+*Note:* Please use the new library named luepp instead: https://github.com/mlutken/luepp
+
 Motivation
 ----------
 This library aims to provide a way for mainly embedded software
